@@ -1,7 +1,7 @@
 {
   "name": "FPT Wellness Dashboard",
   "short_name": "FPT Wellness",
-"start_url": "/fpt-wellness-pwa/",
+"start_url": "https://script.google.com/macros/s/AKfycbxhgT7pDA0l3P8_C0dc_iLVLl6x2OFaDMl7QH4t7P5bNTaipadv-ct5fIfCfpn7U1dhTQ/exec"
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#00aeef",
